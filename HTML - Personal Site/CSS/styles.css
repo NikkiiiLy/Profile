@@ -1,0 +1,167 @@
+body {
+    background-color: #4b4b4b;
+    background-image: url("../images/redgray.webp");
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    color: whitesmoke;
+    font-family: 'Alkatra', Alegreya, cursive;
+    text-align: center;
+}
+
+a {
+    font-family: 'Alkatra', Alegreya, cursive;
+    margin: 20% 1%;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+a:hover {
+    color: lightgray;
+
+}
+
+h1 {
+    font-family: 'Great Vibes', Tangerine, cursive;
+    font-size: 500%;
+    letter-spacing: 15%;
+    margin: 10% auto 5% auto;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 200%;
+    margin-top: 5%;
+}
+
+h3 {
+    color: #e2e2e2;
+    font-size: 150%;
+}
+
+img {
+    border-radius: 80%;
+    background-color: #272727;
+}
+
+img:hover {
+    border-radius: 0%;
+    background-color: rgb(84, 84, 84);
+}
+
+hr {
+    border-style: none;
+    border-top-style: double;
+    border-width: 0.5em;
+    width: 30%;
+    border-radius: 50%;
+    margin-top: 5%;
+}
+
+p {
+    line-height: 2;
+    margin: auto;
+}
+
+
+/* ----------------------------CLASS------------------------------ */
+
+.footer-link {
+    color: rgb(96, 91, 91);
+}
+
+.profile-image {
+    width: 80%;
+}
+
+.gif1 {
+    width: 15.62%;
+    margin: auto;
+}
+
+.gif2 {
+    width: 15.62%;
+    margin: 1.875%;
+    float: right;
+}
+
+.gif3 {
+    width: 15.62%;
+    margin: 1.875%;
+    float: left;
+}
+
+.gif4 {
+    width: 15.62%;
+    margin: 1.875%;
+}
+
+.skills {
+    width: 100%;
+    margin: 6.25% 0.625% 12.5% 0.625%;
+}
+
+.skill-telco {
+    text-align: left;
+    margin-top: 3.125%;
+    margin-bottom: 3.125%;
+}
+
+.skill-webdev {
+    text-align: left;
+}
+
+.top {
+    margin: 6.25% 0.625%;
+}
+
+.middle {
+    margin: 12.5% 0.625%;
+}
+
+.bottom {
+    margin: 12.5% 0.625% 0 0.625%;
+    line-height: 2;
+}
+
+.btn {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #d90000);
+    background-image: -moz-linear-gradient(top, #000000, #d90000);
+    background-image: -ms-linear-gradient(top, #000000, #d90000);
+    background-image: -o-linear-gradient(top, #000000, #d90000);
+    background-image: linear-gradient(to bottom, #000000, #d90000);
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 35%;
+    font-family: Alkatra;
+    color: #ffffff;
+    font-size: 125%;
+    padding: 0.625% 1.25% 0.625% 1.25%;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #ff0303;
+    background-image: -webkit-linear-gradient(top, #ff0303, #5c5c5c);
+    background-image: -moz-linear-gradient(top, #ff0303, #5c5c5c);
+    background-image: -ms-linear-gradient(top, #ff0303, #5c5c5c);
+    background-image: -o-linear-gradient(top, #ff0303, #5c5c5c);
+    background-image: linear-gradient(to bottom, #ff0303, #5c5c5c);
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 12.5%;
+    background-color: #4e0101;
+    padding: 1.25% 0 0 0;
+}
+
+.copyright {
+    color: lightgray;
+    font-size: 75%;
+    padding: 1.25% 0 0 0;
+}
