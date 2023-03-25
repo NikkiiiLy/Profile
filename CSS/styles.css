@@ -1,12 +1,12 @@
 body {
     background-color: #4b4b4b;
-    background-image: url("../images/redgray.webp");
+    background-image: url("../images/wp8484435.webp");
     background-attachment: fixed;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 100% 100%;
+    background-size: cover;
     color: whitesmoke;
     font-family: 'Alkatra', Alegreya, cursive;
     text-align: center;
