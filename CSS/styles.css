@@ -2,7 +2,11 @@ body {
     background-color: #4b4b4b;
     background-image: url("../images/redgray.webp");
     background-attachment: fixed;
-    background-size: cover;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
     color: whitesmoke;
     font-family: 'Alkatra', Alegreya, cursive;
     text-align: center;
